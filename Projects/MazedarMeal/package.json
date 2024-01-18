@@ -1,7 +1,9 @@
 {
+  
   "name": "mazedarmeal",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://AwaisMehnga.github.io/React/Projects/",
   "type": "module",
   "scripts": {
     "dev": "vite",
